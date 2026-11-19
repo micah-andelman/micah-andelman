@@ -3,7 +3,7 @@
 I study electrical engineering at the University of Maryland (class of 2030) and build embedded systems and robots.
 
 - **[meandelman.com](https://meandelman.com)**: my portfolio, with each project drawn as an interactive block diagram ([source](https://github.com/micah-andelman/meandelman))
-- **[ENES100 OTV](https://meandelman.com/otv)**: an autonomous water-sampling robot; I'm the only electrical engineer on an eight-person team and own its electronics and C++ firmware
+- **[ENES100 OTV](https://meandelman.com/otv)**: an autonomous water-sampling robot; I'm the only electrical engineer on an eight-person team and own its electronics and C++ firmware ([code](https://github.com/micah-andelman/enes100-otv))
 - **[LED name badge PCB](https://github.com/micah-andelman/led-name-pcb)**: a 2-layer USB-C board that spells my name in 55 SMD LEDs, generated with KiCad's Python API
 - **[Pluto](https://meandelman.com/pluto)**: a personal agent I text on Telegram, with tools for my calendar, email, Canvas, grades and the campus buses
 - **[Brimcam](https://meandelman.com/brimcam)**: a camera in a cap's brim that estimates the macros in my dining-hall meals
